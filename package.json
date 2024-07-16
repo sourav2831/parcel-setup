@@ -1,0 +1,19 @@
+{
+  "name": "parcel-setup",
+  "version": "1.0.0",
+  "description": "parcel bundler setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav2831/parcel-setup.git"
+  },
+  "author": "Sourav Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav2831/parcel-setup/issues"
+  },
+  "homepage": "https://github.com/sourav2831/parcel-setup#readme"
+}
